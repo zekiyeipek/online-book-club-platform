@@ -1,0 +1,192 @@
+.loginChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1468px;
+    height: 1130px;
+    object-fit: cover;
+}
+.loginItem {
+    position: absolute;
+    top: 14px;
+    left: 339px;
+    border-radius: 48px;
+    background-color: rgba(217, 217, 217, 0.94);
+    width: 779px;
+    height: 968px;
+    mix-blend-mode: normal;
+}
+.welcomeChild {
+    position: absolute;
+    top: 20.41px;
+    left: 46.06px;
+    width: 560.94px;
+    height: 269.59px;
+    object-fit: cover;
+    mix-blend-mode: darken;
+}
+.welcomeTo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+    display: inline-block;
+    width: 456.53px;
+    height: 88.07px;
+}
+.welcome {
+    position: absolute;
+    top: 116px;
+    left: 406px;
+    width: 607px;
+    height: 290px;
+    text-align: left;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 68px;
+    background-color: #ed5050;
+    width: 262px;
+    height: 51px;
+}
+.login1 {
+    position: absolute;
+    top: 11px;
+    left: 17.37px;
+    font-weight: 600;
+    display: inline-block;
+    width: 215.68px;
+    height: 29px;
+}
+.rectangleParent {
+    position: absolute;
+    top: 739px;
+    left: 772px;
+    width: 262px;
+    height: 51px;
+    color: #fff;
+}
+.groupItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 68px;
+    background-color: #fcfcfc;
+    width: 261px;
+    height: 51px;
+}
+.forgotPassword1 {
+    position: absolute;
+    top: 11px;
+    left: 14.14px;
+    font-weight: 600;
+    display: inline-block;
+    width: 238.16px;
+    height: 29px;
+}
+.rectangleGroup {
+    position: absolute;
+    top: 739px;
+    left: 442px;
+    width: 261px;
+    height: 51px;
+    color: #2f2e2e;
+}
+.groupInner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 68px;
+    background-color: rgba(241, 241, 241, 0.81);
+    width: 586px;
+    height: 68px;
+}
+.enterYourPassword1 {
+    position: absolute;
+    top: 22px;
+    left: 14px;
+    display: inline-block;
+    width: 279px;
+    height: 46px;
+}
+.teenyiconspasswordSolid1 {
+    position: absolute;
+    top: 11px;
+    left: 524px;
+    width: 48px;
+    height: 45px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.rectangleContainer {
+    position: absolute;
+    top: 626px;
+    left: 441px;
+    width: 586px;
+    height: 68px;
+}
+.e {
+    position: absolute;
+    top: 22px;
+    left: 0px;
+    display: inline-block;
+    width: 279px;
+    height: 46px;
+}
+.vectorIcon1 {
+    position: absolute;
+    height: 44.12%;
+    width: 8.02%;
+    top: 27.94%;
+    right: 4.61%;
+    bottom: 27.94%;
+    left: 87.37%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.groupDiv {
+    position: absolute;
+    top: 505px;
+    left: 442px;
+    width: 586px;
+    height: 68px;
+}
+.dontHaveAn1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+}
+.signUp {
+    position: absolute;
+    top: 0px;
+    left: 234px;
+    font-weight: 500;
+    color: #be1b1b;
+}
+.dontHaveAnAcountParent {
+    position: absolute;
+    top: 909px;
+    left: 575px;
+    width: 310px;
+    height: 24px;
+    font-size: 20px;
+}
+.login {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 24px;
+    color: #000;
+    font-family: Inter;
+}
+
